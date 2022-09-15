@@ -45,7 +45,7 @@ global.owner = [
   ['081991134619', 'DennBotzz Develover', true],
   ['085930319703', 'RimuruBotzz V1', true],
   ['08987768250', 'MikasaBotzz V2', true],
-  ['081991134619', 'WH-MODS-BOT-V3', true] //Ganti jd nomormu sama Namamu
+  ['081991134619', 'DennBotzz V3', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
